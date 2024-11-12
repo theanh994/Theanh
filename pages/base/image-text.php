@@ -7,8 +7,8 @@
             <div class="image-text__text" style="--w:12; --w-md: 6;">
                 <div class="image-text__box h-100 d-flex content__middle-left">
                     <div class="image-text__content text-left">
-                        <h2 class="image-text__title h2">Nước hoa chanel</h2>
-                        <p class="image-text__context h4">Thương hiệu hiệu nước hoa bán chạy hàng đầu</p>
+                        <h2 class="image-text__title h2"></h2>
+                        <p class="image-text__context h4"></p>
                         <a href="#" class="image-text__btn btn btn__outline">
                             Xem ngay
                         </a>
